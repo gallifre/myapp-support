@@ -1,37 +1,43 @@
 # GalliFre Support
 
-Thank you for using GalliFre.
+Welcome to the official support page for **GalliFre**.
 
-GalliFre helps you track household stock, log daily usage, manage reminders, and estimate when items may run out.
+GalliFre is a household stock and usage tracking app that helps you manage supplies, record daily usage, monitor reminders, and estimate when items may run out.
 
-## Contact
+## Contact Support
 
-If you need help, want to report a bug, or have product feedback, please contact:
+If you need assistance, would like to report a bug, or have suggestions for improvement, please contact:
 
-**Email:** starlight.ripple@gmail.com
+**Support Email:** starlight.ripple@gmail.com
+
+We usually respond within **3 to 5 business days**.
 
 ## Frequently Asked Questions
 
-### What does GalliFre do?
-GalliFre helps you manage everyday household items, record usage, and view forecast-based restock estimates.
+### What is GalliFre used for?
+GalliFre helps you track household items, record stock changes, monitor usage patterns, and view forecast-based restock estimates.
 
-### Why do forecast results change?
-Forecasts may change when you add more records, switch algorithms, or adjust forecast-related factors.
+### Why can forecast results change over time?
+Forecast results may change as you add more records, switch forecast algorithms, or adjust related factors such as expected usage changes and reminder thresholds.
 
-### Can I restore deleted history?
-Yes. Deleted records can be restored from **Settings > Recently Deleted** within the retention period.
+### Can I restore deleted history records?
+Yes. Deleted records can be restored from **Settings > Recently Deleted** during the retention period.
 
 ### How do I change the app language?
-Open **Settings** in the app and choose your preferred language.
+Open **Settings** in the app and select your preferred language.
+
+### Does GalliFre require an internet connection?
+Most core features are designed to work locally on your device.
 
 ## Privacy Policy
 
-The privacy policy will be published here soon.
+Privacy Policy: [View Privacy Policy](https://gallifre.github.io/gallifre-privacy/)
 
-## Response Time
+## App Information
 
-We usually respond within 3 to 5 business days.
+**App Name:** GalliFre  
+**Developer Contact:** starlight.ripple@gmail.com
 
-## Developer
+## Feedback
 
-GalliFre
+We welcome bug reports, feature requests, and general feedback. Your suggestions help improve GalliFre for everyone.
